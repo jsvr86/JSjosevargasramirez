@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 15000,
+      "id": 1,
+      "title": "Vodka Clásico",
+      "thumbnailUrl": "img/botellaclasica.png"
+    },
+    {
+      "precio": 20000,
+      "id": 2,
+      "title": "Vodka Berries",
+      "thumbnailUrl": "img/botellaberries.png"
+    },
+    {
+      "precio": 20000,
+      "id": 3,
+      "title": "Vodka Manzana",
+      "thumbnailUrl": "img/botellamanzana.png"
+    },
+    {
+      "precio": 20000,
+      "id": 4,
+      "title": "Vodka Pera",
+      "thumbnailUrl": "img/botellapera.png"
+    },
+    {
+      "precio": 25000,
+      "id": 5,
+      "title": "Vodka Boris Jeltzin",
+      "thumbnailUrl": "img/botellaborisjeltzin.png"
+    },
+    {
+      "precio": 30000,
+      "id": 6,
+      "title": "Vodka Madre Rusia",
+      "thumbnailUrl": "img/botellamadrerusia.png"
+    }
+  ]
